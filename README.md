@@ -9,9 +9,17 @@ A Healthcare Portal for Home Care Activities(HCA) who provide services such as a
 
 
 # Table of Contents 
-Abstract……………………………………………………………………… 4 1.0 Introduction --------------------------------- 5 
+Abstract………………………………………………………………………
+
+ntroduction --------------------------------- 5 
+
+
 1.1 Existing Systems ----------------------------- 5 
+
+
 1.2 Proposed System --------------------------------- 5 
+
+
 1.2.1 Advantage of the proposed system --------------------------------- 5 
 1.3 Software Engineering Model --------------------------------- 5 
 1.4 Purpose (1 statement) ----------------------------------------------------------------------- 6 1.5 Project Objective/Goals and Scope ------------------------------------------------------ 6 1.6 Technologies & Tools --------------------------------------------------------------- 6 1.7 Users (Who can use this system?) --------------------------------- 6 
